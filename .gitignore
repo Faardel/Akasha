@@ -127,3 +127,104 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+EDA_0/polygon.ipynb
+EDA_0/polygon1.ipynb
+EDA_0/unit_7_check_up.ipynb
+EDA_0/data/country_area.csv
+EDA_0/data/country_population.csv
+EDA_0/data/heart.csv
+EDA_0/data/model.csv
+EDA_0/data/wine_cleared.csv
+EDA_0/data/wine.csv
+EDA_3/stat-tests-eda-4.ipynb
+EDA_3/data/pizzas.csv
+EDA_4/polugonal.ipynb
+EDA_4/data/ab_data.csv
+EDA_5/polygon.ipynb
+EDA_5/Template_EDA_5.ipynb
+EDA_5/data/ab_data_tourist.csv
+EDA_6/_asset-v1_SkillFactory+DSPR-2.0+14JULY2021+type@asset+block_noshowappointments_cometml.ipynb
+EDA_6/data/KaggleV2-May-2016.csv
+MATH&ML-1/MATHML_Module_1_Matrix_Base_screencast.ipynb
+MATH&ML-1/MATHML_Module_1_Matrix_Mult_screencast.ipynb
+MATH&ML-2/MATH_ML-2._Практика._Ноутбук-шаблон.ipynb
+MATH&ML-2/polygonal.ipynb
+MATH&ML-2/data/unconv.csv
+MATH&ML-2/MATH_ML-2._Практика._Ноутбук-шаблон.ipynb
+MATH&ML-2/polygonal.ipynb
+MATH&ML-2/data/unconv.csv
+MATH&ML-4/4.8_SF.ipynb
+MATH&ML-5/polygon.ipynb
+MATH&ML-5/Unit8_Part1.ipynb
+MATH&ML-5/Unit8_Part2.ipynb
+MATH&ML-5/data/Advertising.csv
+MATH&ML-6/polygon.ipynb
+ML_2/AudiPrices.ipynb
+ML_2/polygonal.ipynb
+ML_2/polygonal1.ipynb
+ML_2/data/50_Startups.csv
+ML_2/data/audi.csv
+ML_2/data/insurance.csv
+ML_3/AdultClassification.ipynb
+ML_3/Classification.LogisticRegression.ipynb
+ML_3/сhurn.ipynb
+ML_3/data/adult.csv
+ML_3/data/churn.csv
+ML_3/data/diabetes_cleaned.csv
+ML_3/data/task_data.csv
+ML_4/dst3-ml4-2_clusterization.ipynb
+ML_4/dst3-ml4-5_visualization.ipynb
+ML_4/polygonal.ipynb
+ML_4/data/airbnb.csv
+ML_4/data/pokemon.csv
+ML_4/data/segmented_customers.csv
+ML_4/data/values_from_the_instrument.csv
+ML_5/polugonal.ipynb
+ML_5/practice.ipynb
+ML_5/data/online_shoppers_intention.csv
+ML_5/data/water_potability.csv
+ML_6/data_ford_price.xlsx
+ML_6/Даты_и_расстояния.ipynb
+ML_6/Кодирование_признаков.ipynb
+ML_6/Масштабирование_признаков.ipynb
+ML_6/Обработка_пропусков_и_выбросов.ipynb
+ML_6/Отбор_признаков.ipynb
+ML_6/Предсказание_дохода.ipynb
+ML_6/Трансформации_распределений_признаков.ipynb
+ML_7/ML-7.Optimization_of_hyperparameters.ipynb
+ML_7/ML-7.Practice.ipynb
+ML_7/data/_train_sem09 (1).csv
+ML_7/data/adult.csv
+ML_8/ML-8._Metrics_learning.ipynb
+ML_8/ML-8._Pipelines.ipynb
+ML_8/pipeline.pkl
+ML_8/data/marketing_campaign.csv
+ML_8/data/Red.csv
+PROJECT-2/Project_2_Ноутбук_шаблон.ipynb
+PY_10. Введение в Pandas/Введение в Pandas.ipynb
+PY_10. Введение в Pandas/data/melb_data.csv
+PY_10. Введение в Pandas/data/students_performance.csv
+PY_11. Базовые приёмы работы с данными в Pandas/polygonal.ipynb
+PY_11. Базовые приёмы работы с данными в Pandas/data/citibike-tripdata.csv
+PY_11. Базовые приёмы работы с данными в Pandas/data/melb_data_ps.csv
+PY_11. Базовые приёмы работы с данными в Pandas/data/ufo.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/polygonal.ipynb
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/dates.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/melb_data_fe.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/movies.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/orders.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/products.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings_movies.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings1.csv
+PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings2.csv
+PYTHON-13. Визуализация данных/poly.ipynb
+PYTHON-13. Визуализация данных/PY_13.ipynb
+PYTHON-13. Визуализация данных/data/churn.csv
+PYTHON-13. Визуализация данных/data/country_vaccinations.csv
+PYTHON-13. Визуализация данных/data/covid_data.csv
+PYTHON-14. Очистка данных/poly.ipynb
+PYTHON-14. Очистка данных/data/diabetes_data.csv
+PYTHON-14. Очистка данных/data/sber_data.csv
+Аттестация Python/polygon.ipynb
+Аттестация Python/data/solarpower.csv
+PROJECT-1. Анализ резюме из HeadHunter/data/dst-3.0_16_1_hh_database.csv
